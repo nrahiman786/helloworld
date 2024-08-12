@@ -46,6 +46,12 @@
         input[type="submit"]:hover {
             background-color: #0056b3;
         }
+	.version {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
     </style>
 </head>
 <body>
