@@ -64,6 +64,9 @@
 
             <input type="submit" value="Submit">
         </form>
+	<div class="version">
+            Version 1.0
+        </div>
     </div>
 </body>
 </html>
