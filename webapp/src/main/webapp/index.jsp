@@ -71,7 +71,7 @@
             <input type="submit" value="Submit">
         </form>
 	<div class="version">
-            Version 1.1
+            Version 1.2
         </div>
     </div>
 </body>
