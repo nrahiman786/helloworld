@@ -112,7 +112,7 @@
 
         <!-- Footer -->
         <div class="footer">
-            Version 1.4
+            Version 1.5, Devops Project
         </div>
     </div>
 </body>
