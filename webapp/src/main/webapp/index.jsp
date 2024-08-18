@@ -101,7 +101,7 @@
         <div class="section">
             <h2>Course Updates</h2>
             <div class="card">
-                <h3>DevOps Pipeline Project</h3>
+                <h3>DevOps Pipeline Project introduction in September </h3>
                 <p>Submission deadline for the DevOps pipeline project has been extended to August 30. Make sure to complete and submit your project before the new deadline.</p>
             </div>
             <div class="card">
@@ -112,7 +112,7 @@
 
         <!-- Footer -->
         <div class="footer">
-            Version 1.1,Devops Project
+            Version 1.2,Devops
         </div>
     </div>
 </body>
